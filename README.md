@@ -1,4 +1,4 @@
-PARA INSTALAR ESTE PROYECTO ES NECESARIO TENER EN TU DISPOSITIVO LARAVEL , COMPOSER Y XAMPP PREVIAMENTE INSTALADOS 
+PARA ESTE PROYECTO ES NECESARIO TENER EN TU DISPOSITIVO LARAVEL , COMPOSER Y XAMPP PREVIAMENTE INSTALADOS 
 ![laravel](https://github.com/user-attachments/assets/4c442f2a-02fa-4790-97c6-0660e6b1838f)
 
 Si aun no cuentas con ellos, a continuación se presenta una serie de pasos para su instalación 
